@@ -1,0 +1,31 @@
+{
+  "app_name": "أغاني الشاب امين تيجر",
+  "base_api_url": "https://djelalda.online/music/api/",
+  "base_media_url": "https://djelalda.online/music/",
+  "ads": {
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "native": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "display_frequency": 3
+    },
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "display_frequency": 5
+    },
+    "app_open": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "display_frequency": 30
+    }
+  },
+  "feature_toggles": {
+    "ads": true,
+    "online_songs": true,
+    "radio": true
+  }
+}
