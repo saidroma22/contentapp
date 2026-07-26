@@ -5,5 +5,15 @@
 
   "app_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/app.json",
 
-  "ads_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/ads.json"
+  "ads_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/ads.json",
+
+  "online_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/online.json",
+
+  "radio_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/radio.json",
+
+  "theme_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/theme.json",
+
+  "artists_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/artists.json",
+
+  "maintenance_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/maintenance.json"
 }
