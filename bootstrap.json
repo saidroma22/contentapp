@@ -1,19 +1,8 @@
 {
   "version": "1.0",
-
+  "min_supported_app_version": "1.0",
+  "config_version": "2026.07.26.1",
   "maintenance": false,
-
-  "app_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/app.json",
-
-  "ads_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/ads.json",
-
-  "online_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/online.json",
-
-  "radio_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/radio.json",
-
-  "theme_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/theme.json",
-
-  "artists_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/artists.json",
-
-  "maintenance_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/maintenance.json"
+  "system_config_url": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/system.json",
+  "content_config_url": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/content.json"
 }
