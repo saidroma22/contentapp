@@ -1,0 +1,22 @@
+{
+  "online_songs": [
+    {
+      "id": 1,
+      "title": "أغنية تجريبية 1",
+      "artist": "الشاب أمين تيجر",
+      "album": "2026",
+      "cover_image": "https://djelalda.online/music/covers/1.jpg",
+      "mp3_url": "https://djelalda.online/music/audio/1.mp3",
+      "duration": 210
+    }
+  ],
+  "radio_stations": [
+    {
+      "id": 1,
+      "name": "راديو الشاب أمين",
+      "category": "موسيقى",
+      "logo": "https://djelalda.online/music/covers/radio.jpg",
+      "stream_url": "https://stream.example.com/radio"
+    }
+  ]
+}
