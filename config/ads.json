@@ -1,0 +1,21 @@
+{
+  "ad_status": "1",
+
+  "ad_banner": "admob",
+  "ad_inter": "admob",
+  "ad_native": "admob",
+  "openapp": "admob",
+
+  "back_up": "none",
+
+  "ad_interval": 6,
+
+  "interstitial_webview_enabled": true,
+
+  "AdMob": {
+    "banner": "",
+    "interstitial": "",
+    "native": "",
+    "appopen": ""
+  }
+}
