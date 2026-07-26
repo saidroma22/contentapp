@@ -1,7 +1,9 @@
 {
   "version": "1.0",
+
   "maintenance": false,
-  "config_url": "https://example.com/app.json",
-  "message": "",
-  "updated_at": "2026-07-26T00:00:00Z"
+
+  "app_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/app.json",
+
+  "ads_config": "https://raw.githubusercontent.com/saidroma22/contentapp/main/config/ads.json"
 }
